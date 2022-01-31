@@ -1,0 +1,26 @@
+{
+  "id": "84362da9-8161-43fe-96fc-84cd654d0848",
+  "name": "SCDocuments",
+  "publisher": "SC",
+  "version": "1.0.1.69",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "SC.png",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "19.0.0.0",
+  "application": "19.0.0.0",
+  "idRanges": [
+    {
+      "from": 50040,
+      "to": 50050
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://SCReports.com/help/",
+  "runtime": "8.0",
+  "features": ["TranslationFile"]
+}

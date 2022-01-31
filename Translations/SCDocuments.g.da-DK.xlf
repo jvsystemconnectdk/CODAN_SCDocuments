@@ -1,0 +1,481 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="SCDocuments">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 2550195097 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Country/Currency-accounts</source>
+          <target>Lande/valuta-bankkonti</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table CountryCurrencyBankInfo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2550195097 - Method 751141424 - NamedType 2112987061" size-unit="char" translate="yes">
+          <source>Reg. No.</source>
+          <target>Reg.nr</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table CountryCurrencyBankInfo - Method FetchBankInfo - NamedType LblRegNo</note>
+        </trans-unit>
+        <trans-unit id="Table 2550195097 - Method 751141424 - NamedType 1289689310" size-unit="char" translate="yes">
+          <source>Account No.</source>
+          <target>Bankkonto</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table CountryCurrencyBankInfo - Method FetchBankInfo - NamedType LblAccNo</note>
+        </trans-unit>
+        <trans-unit id="Table 2550195097 - Method 751141424 - NamedType 788651770" size-unit="char" translate="yes">
+          <source>IBAN</source>
+          <target>IBAN</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table CountryCurrencyBankInfo - Method FetchBankInfo - NamedType LblIBAN</note>
+        </trans-unit>
+        <trans-unit id="Table 2550195097 - Method 751141424 - NamedType 4090987159" size-unit="char" translate="yes">
+          <source>SWIFT</source>
+          <target>SWITCH</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table CountryCurrencyBankInfo - Method FetchBankInfo - NamedType LblSWIFT</note>
+        </trans-unit>
+        <trans-unit id="Table 2550195097 - Field 2663384385 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Bank Account</source>
+          <target>Bankkonto</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table CountryCurrencyBankInfo - Field BankAccount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2550195097 - Field 1059087812 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Bank Address</source>
+          <target>Bank adresse</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table CountryCurrencyBankInfo - Field BankAddress - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2550195097 - Field 1761757187 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Bank Name</source>
+          <target>Banknavn</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table CountryCurrencyBankInfo - Field BankName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2550195097 - Field 1524523321 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Reg.No.</source>
+          <target>Reg.nr</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table CountryCurrencyBankInfo - Field BankRegNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2550195097 - Field 3643848063 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Country</source>
+          <target>Land</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table CountryCurrencyBankInfo - Field CountryCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2550195097 - Field 567887726 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Currency</source>
+          <target>Valuta</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table CountryCurrencyBankInfo - Field CurrencyCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2550195097 - Field 174941248 - Property 2879900210" size-unit="char" translate="yes">
+          <source>IBAN</source>
+          <target>IBAN</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table CountryCurrencyBankInfo - Field Iban - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2550195097 - Field 2409439070 - Property 2879900210" size-unit="char" translate="yes">
+          <source>SWIFT Code</source>
+          <target>SWIFT</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table CountryCurrencyBankInfo - Field SWIFTCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 782116197 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Report label translation</source>
+          <target>Rapport label oversættelse</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ReportLabelTranslation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 782116197 - Field 3638769509 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Label Id</source>
+          <target>Label Id</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ReportLabelTranslation - Field LabelId - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 782116197 - Field 1473772685 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Label text</source>
+          <target>Label tekst</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ReportLabelTranslation - Field LabelText - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 782116197 - Field 1859002777 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Language Code</source>
+          <target>Sprogkode</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ReportLabelTranslation - Field LanguageCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 782116197 - Field 2984138987 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Report Name</source>
+          <target>Rapport navn</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ReportLabelTranslation - Field ReportName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 782116197 - Field 3996822097 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Report No.</source>
+          <target>Rapportnr</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table ReportLabelTranslation - Field ReportNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3951416627 - Field 3702373668 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Category</source>
+          <target />
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table SCReportSetup - Field Category - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3951416627 - Field 939491939 - Property 2879900210" size-unit="char" translate="yes">
+          <source>GroupKey1</source>
+          <target />
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table SCReportSetup - Field GroupKey1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3951416627 - Field 3348941625 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Key</source>
+          <target />
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table SCReportSetup - Field Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3951416627 - Field 3301325435 - Property 2879900210" size-unit="char" translate="yes">
+          <source>KeyDescription</source>
+          <target />
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table SCReportSetup - Field KeyDescription - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3951416627 - Field 3549826426 - Property 2879900210" size-unit="char" translate="yes">
+          <source>UserName</source>
+          <target />
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table SCReportSetup - Field UserName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3951416627 - Field 548016591 - Property 2879900210" size-unit="char" translate="yes">
+          <source>ValueAsText1</source>
+          <target />
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Table SCReportSetup - Field ValueAsText1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3763210276 - NamedType 751918659" size-unit="char" translate="yes">
+          <source>Att.</source>
+          <target>Att.</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SCReportAddress - NamedType Att</note>
+        </trans-unit>
+        <trans-unit id="Page 1803324583 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Select Invoice Lines</source>
+          <target>Vælg fakturalinjer</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Page CertificateSelect - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1803324583 - Control 1433517152 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Marked</source>
+          <target>Markeret</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Page CertificateSelect - Control Marked - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2550195097 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Country/Currency-Bankinfo</source>
+          <target>Lande/valuta Bankinfo</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Page CountryCurrencyBankInfo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 782116197 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Report label translation</source>
+          <target>Rapport label oversættelse</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Page ReportLabelTranslation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 782116197 - Method 3999852917 - NamedType 1968152428" size-unit="char" translate="yes">
+          <source>Select text file</source>
+          <target>Vælg tekstfil</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Page ReportLabelTranslation - Method LabelImport - NamedType DialogTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 782116197 - Action 1429485987 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Export</source>
+          <target>Eksport</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Page ReportLabelTranslation - Action ExportLabels - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 782116197 - Action 1320029524 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Import</source>
+          <target>Import</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Page ReportLabelTranslation - Action ImportLabels - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3951416627 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Report parameters</source>
+          <target>Rapport parametre</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCReportSetup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3951416627 - Property 3863440606" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rapport,Layout,Dokument,Opsætning</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCReportSetup - Property AdditionalSearchTerms</note>
+        </trans-unit>
+        <trans-unit id="Page 3951416627 - Control 3024217264 - Property 2879900210" size-unit="char" translate="yes">
+          <source>FIK</source>
+          <target>FIK</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCReportSetup - Control FIK - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3951416627 - Control 3257663411 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Paym.Method code</source>
+          <target>Betal.metode</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCReportSetup - Control FIKPaymentMethod - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3951416627 - Control 2298542597 - Property 2879900210" size-unit="char" translate="yes">
+          <source>IBAN setup</source>
+          <target>IBAN opsætning</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCReportSetup - Control IBANSetup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3951416627 - Control 1123861665 - Property 2879900210" size-unit="char" translate="yes">
+          <source>IBAN DKK</source>
+          <target>IBAN DKK</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCReportSetup - Control IBAN_DKK - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3951416627 - Control 576564499 - Property 2879900210" size-unit="char" translate="yes">
+          <source>IBAN EUR</source>
+          <target>IBAN EUR</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCReportSetup - Control IBAN_EUR - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3951416627 - Control 2232616963 - Property 2879900210" size-unit="char" translate="yes">
+          <source>IBAN USD</source>
+          <target>IBAN USD</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCReportSetup - Control IBAN_USD - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3951416627 - Control 4248091135 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Language Setup</source>
+          <target>Sprogopsætning</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCReportSetup - Control LanguageSetup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3951416627 - Control 3608320704 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Default Language Code</source>
+          <target>Standard sprogkode</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCReportSetup - Control DefaultLanguageCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3951416627 - Control 201522238 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Layout Setup</source>
+          <target>Layout opsætning</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCReportSetup - Control Layout - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3951416627 - Control 932663093 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Hide Item Variant</source>
+          <target>Gem varevariant</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCReportSetup - Control HideItemNoVariant - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3951416627 - Control 3544032317 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Show Customer Item No.</source>
+          <target>Vis kundevarenr</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCReportSetup - Control ShowCustomerItemNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3951416627 - Control 2915967719 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Text Codes</source>
+          <target>Tekstkoder</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCReportSetup - Control TxtCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3951416627 - Control 3615626782 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Confirmation</source>
+          <target>Bekræftelse</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCReportSetup - Control TxtCodeConfirmation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3951416627 - Control 647012274 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Credit Memo</source>
+          <target>Kreditnota</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCReportSetup - Control TxtCodeCrMemo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3951416627 - Control 305381139 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Delivery Note</source>
+          <target>Følgeseddel</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCReportSetup - Control TxtCodeDeliveryNote - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3951416627 - Control 3343764032 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Invoice</source>
+          <target>Faktura</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCReportSetup - Control TxtCodeInvoice - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3951416627 - Control 2706957698 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Proforma Invoice</source>
+          <target>Proforma faktura</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCReportSetup - Control TxtCodeProformainvoice - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3951416627 - Control 2071795122 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Purchase</source>
+          <target>Indkøb</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCReportSetup - Control TxtCodePurchase - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3951416627 - Action 4111405524 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Bank info setup</source>
+          <target>Bankinfo opsætning</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCReportSetup - Action BankInfo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3951416627 - Action 731121093 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Report label translation</source>
+          <target>Raport label oversættelse</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Page SCReportSetup - Action ImportTxtFile - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 749240881 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Purchase Requisition</source>
+          <target>Købsrekvisition</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Report PurchaseRequisition - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 749240881 - ReportDataItem 907109761 - Property 1806354803" size-unit="char" translate="yes">
+          <source>Purchase Order</source>
+          <target>Købsordre</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Report PurchaseRequisition - ReportDataItem Header - Property RequestFilterHeading</note>
+        </trans-unit>
+        <trans-unit id="Report 3940854383 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Certificate</source>
+          <target>Certifikat</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Report SalesCertificate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3940854383 - ReportDataItem 907109761 - Property 1806354803" size-unit="char" translate="yes">
+          <source>Certificate</source>
+          <target>Certifikat</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Report SalesCertificate - ReportDataItem Header - Property RequestFilterHeading</note>
+        </trans-unit>
+        <trans-unit id="Report 3419191441 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Sales - Confirmation</source>
+          <target>Ordrebekræftelse</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Report SalesConfirmation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3419191441 - ReportDataItem 907109761 - Property 1806354803" size-unit="char" translate="yes">
+          <source>Order confirmation</source>
+          <target>Ordrebekræftelse</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Report SalesConfirmation - ReportDataItem Header - Property RequestFilterHeading</note>
+        </trans-unit>
+        <trans-unit id="Report 4275230785 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Sales - Credit Memo</source>
+          <target>Kreditnota</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Report SalesCreditMemo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4275230785 - ReportDataItem 907109761 - Property 1806354803" size-unit="char" translate="yes">
+          <source>Posted Sales Credit Memo</source>
+          <target>Bogført Kreditnota</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Report SalesCreditMemo - ReportDataItem Header - Property RequestFilterHeading</note>
+        </trans-unit>
+        <trans-unit id="Report 3377997592 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Sales - Delivery Note</source>
+          <target>Følgeseddel</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Report SalesDeliveryNote - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3377997592 - ReportDataItem 907109761 - Property 1806354803" size-unit="char" translate="yes">
+          <source>Delivery Note</source>
+          <target>Følgeseddel</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Report SalesDeliveryNote - ReportDataItem Header - Property RequestFilterHeading</note>
+        </trans-unit>
+        <trans-unit id="Report 927944371 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Sales - Invoice</source>
+          <target>Faktura</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Report SalesInvoice - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 927944371 - ReportDataItem 907109761 - Property 1806354803" size-unit="char" translate="yes">
+          <source>Posted Sales Invoice</source>
+          <target>Bogført Faktura</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Report SalesInvoice - ReportDataItem Header - Property RequestFilterHeading</note>
+        </trans-unit>
+        <trans-unit id="Report 4266018389 - Property 2879900210" size-unit="char" translate="yes">
+          <source>Proforma Invoice</source>
+          <target>Proformafaktura</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Report SalesInvoiceProforma - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 4266018389 - ReportDataItem 907109761 - Property 1806354803" size-unit="char" translate="yes">
+          <source>Proforma Invoice</source>
+          <target>Proformafaktura</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Report SalesInvoiceProforma - ReportDataItem Header - Property RequestFilterHeading</note>
+        </trans-unit>
+        <trans-unit id="Report 4266018389 - ReportDataItem 1735507514 - Method 3245603402 - NamedType 170669101" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Val.just.: %1 + %2 (%3%)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SalesInvoiceProforma - ReportDataItem Line - Method OnAfterGetRecord - NamedType LblCurrAdj</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1879496678 - Action 557451160 - Property 2879900210" size-unit="char" translate="yes" al-object-target="Page 2521211343">
+          <source>SC Special</source>
+          <target>SC Special</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Extend_AccountingManagerRC - Action ReportSetupActions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1879496678 - Action 570273595 - Property 2879900210" size-unit="char" translate="yes" al-object-target="Page 2521211343">
+          <source>Report Setup</source>
+          <target>Rapport opsætning</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Extend_AccountingManagerRC - Action ReportSetup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2671905786 - Action 3957970936 - Property 2879900210" size-unit="char" translate="yes" al-object-target="Page 2420212404">
+          <source>Certificate</source>
+          <target>Certifikat</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Ext_PostedSalesInvoice - Action PrintCertificate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1131865696 - Field 2642421243 - Property 2879900210" size-unit="char" translate="yes" al-object-target="Table 3059602325">
+          <source>Postion</source>
+          <target>Postion</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ExtSalesCrMemoLine - Field SCPosition - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 88380994 - Field 2642421243 - Property 2879900210" size-unit="char" translate="yes" al-object-target="Table 2079186865">
+          <source>Postion</source>
+          <target>Postion</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ExtSalesInvoiceLine - Field SCPosition - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2953126313 - Field 2642421243 - Property 2879900210" size-unit="char" translate="yes" al-object-target="Table 2574427010">
+          <source>Postion</source>
+          <target>Postion</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ExtSalesLine - Field SCPosition - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4229944193 - Field 2642421243 - Property 2879900210" size-unit="char" translate="yes" al-object-target="Table 1114148978">
+          <source>Postion</source>
+          <target>Postion</target>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ExtSalesShipmentLine - Field SCPosition - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1034521773 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales - Picklist</source>
+          <target>Plukliste</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SalesSalesPicklist - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1034521773 - ReportDataItem 907109761 - Property 1806354803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Picklist</source>
+          <target>Plukliste</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SalesSalesPicklist - ReportDataItem Header - Property RequestFilterHeading</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
